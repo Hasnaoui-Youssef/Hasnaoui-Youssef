@@ -1,9 +1,9 @@
 Hi there ! 👋
 I'm Youssef, 21 years old and I'm learning Web Dev currently using the MERN stack. 
 
-**Hasnaoui-Youssef/Hasnaoui-Youssef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:
+**Hasnaoui-Youssef/Hasnaoui-Youssef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
