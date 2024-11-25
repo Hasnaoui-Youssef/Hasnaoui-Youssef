@@ -1,5 +1,5 @@
 Hi there ! 👋
-I'm Youssef, 21 years old and I'm learning Web Dev currently using the MERN stack. 
+I'm Youssef, a 22 years old Embedded Systems engineer in the making!;
 
 <!--
 Here are some ideas to get you started:
